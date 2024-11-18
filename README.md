@@ -1,4 +1,4 @@
-# Exp-No:5 - 32 Bit ALU-Synthesize the Gate Level Netlist and tabulate Area and Power reports..(Using Genus in Cadence)
+# Exp-No:5 - 32 Bit ALU-Synthesize the Gate Level Netlist and tabulate Area and Power reports.(Using Genus in Cadence)
 
 **Aim:** <br>
 <br>
